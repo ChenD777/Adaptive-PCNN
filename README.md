@@ -10,7 +10,8 @@ Varying prediction horizon (15mins to 7 days)
 
 
 
-Related publications:
+Related publications
+
 1 Adaptive Physically Consistent Neural Networks for Data Center Thermal Dynamics Modeling (Submission)
 
 2 Physically Consistent Neural Networks for building thermal modeling: Theory and analysis
@@ -20,5 +21,6 @@ Related publications:
   https://github.com/Cemempamoi/pcnn
 
 
-Contact:
+Contact
+
 For additional information, pleasae contact e0974151@u.nus.edu
