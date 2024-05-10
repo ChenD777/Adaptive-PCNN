@@ -20,12 +20,7 @@ Related publications
 
 2. Physically Consistent Neural Networks for building thermal modeling: Theory and analysis
    Loris Di Natale, Bratislav Svetozarevic, Philipp Heer, and Colin N. Jones
-   Applied Energy 325 (2022). 
-   
-   [DOI](https://doi.org/10.1016/j.apenergy.2022.119806)
-   
-   [GitHub Repository](https://github.com/Cemempamoi/pcnn)
-
+   Applied Energy 325 (2022). [DOI](https://doi.org/10.1016/j.apenergy.2022.119806) [GitHub Repository](https://github.com/Cemempamoi/pcnn)
 
 Contact
 
