@@ -1,6 +1,6 @@
 This repository contains a clean and efficient version of Adaptive Physically Consistent Neural Networks (Adapt-PCNN), an improved version of PCNN with better prediction accuracy.
 
-![Adapt-PCNN](https://github.com/ChenD777/Adapt-PCNN/assets/167495481/942b3fae-880f-4402-834e-e45a55aec799)
+<img src="https://github.com/ChenD777/Adapt-PCNN/assets/167495481/942b3fae-880f-4402-834e-e45a55aec799" width="600">
 
 Varying training data size (1month to 5 months)
 
