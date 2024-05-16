@@ -16,9 +16,7 @@ Varying prediction horizon (15mins to 7 days)
 <img src="https://github.com/ChenD777/Adapt-PCNN/assets/167495481/87edd97b-22fd-46d9-a32b-7062c360007b" width="500">
 
 
-
-### **Related publications**
---------------------------------------------------------------------------
+<h2>**Related publications**</h2>
 
 1. Adaptive Physically Consistent Neural Networks for Data Center Thermal Dynamics Modeling (Submission)
 
