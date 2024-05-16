@@ -16,7 +16,7 @@ Varying prediction horizon (15mins to 7 days)
 <img src="https://github.com/ChenD777/Adapt-PCNN/assets/167495481/87edd97b-22fd-46d9-a32b-7062c360007b" width="500">
 
 
-<h2>**Related publications**</h2>
+<h2>Related publications</h2>
 
 1. Adaptive Physically Consistent Neural Networks for Data Center Thermal Dynamics Modeling (Submission)
 
@@ -24,13 +24,12 @@ Varying prediction horizon (15mins to 7 days)
    Loris Di Natale, Bratislav Svetozarevic, Philipp Heer, and Colin N. Jones
    Applied Energy 325 (2022). [DOI](https://doi.org/10.1016/j.apenergy.2022.119806) [GitHub Repository](https://github.com/Cemempamoi/pcnn)
 
-### **Data Source**
---------------------------------------------------------------------------
+
+<h2>Data Source</h2>
 
 Le, Van Duc, 2023, "An Air-Cooled Tropical Data Center (TDC2.0) Dataset", https://doi.org/10.21979/N9/BLBQ2T, DR-NTU (Data), V2
 
 
-### **Contact**
---------------------------------------------------------------------------
+<h2>Contact</h2>
 
 For additional information, please contact e0974151@u.nus.edu
