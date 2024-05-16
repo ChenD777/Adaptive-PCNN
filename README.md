@@ -1,8 +1,5 @@
-### **Adapt-PCNN**
---------------------------------------------------------------------------
+<h2>Adaptive Physically Consistent Neural Networks</h2>
 
-
-<h2>Physically Consistent Neural Networks</h2>
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 
