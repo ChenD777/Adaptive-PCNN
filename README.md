@@ -27,7 +27,6 @@ Data Source
 
 Le, Van Duc, 2023, "An Air-Cooled Tropical Data Center (TDC2.0) Dataset", https://doi.org/10.21979/N9/BLBQ2T, DR-NTU (Data), V2
 
-https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/BLBQ2T
 
 Contact
 
