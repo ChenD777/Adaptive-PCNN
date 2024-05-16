@@ -23,6 +23,12 @@ Related publications
    Loris Di Natale, Bratislav Svetozarevic, Philipp Heer, and Colin N. Jones
    Applied Energy 325 (2022). [DOI](https://doi.org/10.1016/j.apenergy.2022.119806) [GitHub Repository](https://github.com/Cemempamoi/pcnn)
 
+Data Source
+
+Le, Van Duc, 2023, "An Air-Cooled Tropical Data Center (TDC2.0) Dataset", https://doi.org/10.21979/N9/BLBQ2T, DR-NTU (Data), V2
+
+https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/BLBQ2T
+
 Contact
 
-For additional information, pleasae contact e0974151@u.nus.edu
+For additional information, please contact e0974151@u.nus.edu
