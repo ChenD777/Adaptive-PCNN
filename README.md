@@ -1,5 +1,5 @@
 ### **Adapt-PCNN**
-=======
+--------------------------------------------------------------------------
 
 This repository contains a clean and efficient version of Adaptive Physically Consistent Neural Networks (Adapt-PCNN), an improved version of PCNN with better prediction accuracy.
 Adapt-PCNN leverages NN with Softplus activation functions, replacing traditional preset and fixed coefficients to reduce trial-and-error costs and increase flexibility. Over a six-month real data center dataset case study, the Adapt-PCNN framework significantly outperformed the traditional PCNN model. 
@@ -19,6 +19,7 @@ Varying prediction horizon (15mins to 7 days)
 
 
 ### **Related publications**
+--------------------------------------------------------------------------
 
 1. Adaptive Physically Consistent Neural Networks for Data Center Thermal Dynamics Modeling (Submission)
 
@@ -27,10 +28,12 @@ Varying prediction horizon (15mins to 7 days)
    Applied Energy 325 (2022). [DOI](https://doi.org/10.1016/j.apenergy.2022.119806) [GitHub Repository](https://github.com/Cemempamoi/pcnn)
 
 ### **Data Source**
+--------------------------------------------------------------------------
 
 Le, Van Duc, 2023, "An Air-Cooled Tropical Data Center (TDC2.0) Dataset", https://doi.org/10.21979/N9/BLBQ2T, DR-NTU (Data), V2
 
 
 ### **Contact**
+--------------------------------------------------------------------------
 
 For additional information, please contact e0974151@u.nus.edu
