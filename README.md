@@ -27,7 +27,7 @@ Varying prediction horizon (15mins to 7 days)
 
 <h2>Data Source</h2>
 
-Le, Van Duc, 2023, "An Air-Cooled Tropical Data Center (TDC2.0) Dataset", https://doi.org/10.21979/N9/BLBQ2T, DR-NTU (Data), V2
+Le, Van Duc, 2023, "An Air-Cooled Tropical Data Center (TDC2.0) Dataset", [DOI](https://doi.org/10.21979/N9/BLBQ2T), DR-NTU (Data), V2
 
 
 <h2>Contact</h2>
