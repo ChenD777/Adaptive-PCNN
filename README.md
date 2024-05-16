@@ -1,6 +1,11 @@
 ### **Adapt-PCNN**
 --------------------------------------------------------------------------
 
+
+<h2>Physically Consistent Neural Networks</h2>
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
 This repository contains a clean and efficient version of Adaptive Physically Consistent Neural Networks (Adapt-PCNN), an improved version of PCNN with better prediction accuracy.
 Adapt-PCNN leverages NN with Softplus activation functions, replacing traditional preset and fixed coefficients to reduce trial-and-error costs and increase flexibility. Over a six-month real data center dataset case study, the Adapt-PCNN framework significantly outperformed the traditional PCNN model. 
 
