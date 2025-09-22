@@ -15,10 +15,14 @@ Varying prediction horizon (15mins to 7 days)
 
 <img src="https://github.com/ChenD777/Adapt-PCNN/assets/167495481/87edd97b-22fd-46d9-a32b-7062c360007b" width="500">
 
+This repository is based on [Author Nataleet al.][GitHub Repository](https://github.com/Cemempamoi/pcnn) 
+The original implementation provided the foundation, and we have made modifications and extensions for XXX (your contribution).  
+We sincerely acknowledge and thank the authors of the original project.
+
 
 <h2>Related publications</h2>
 
-1. Adaptive physically consistent neural networks for data center thermal dynamics modeling, Chen D, Chui C-K, Lee PS. Appl Energy 2025;377:124637. https://doi.org/10.1016/j.apenergy.2024.124637.
+1. Adaptive physically consistent neural networks for data center thermal dynamics modeling, Chen D, Chui C-K, Lee PS. Appl Energy 2025;377:124637. [DOI](https://doi.org/10.1016/j.apenergy.2024.124637)
 
 2. Physically Consistent Neural Networks for building thermal modeling: Theory and analysis
    Loris Di Natale, Bratislav Svetozarevic, Philipp Heer, and Colin N. Jones
