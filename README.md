@@ -15,8 +15,8 @@ Varying prediction horizon (15mins to 7 days)
 
 <img src="https://github.com/ChenD777/Adapt-PCNN/assets/167495481/87edd97b-22fd-46d9-a32b-7062c360007b" width="500">
 
-This repository is based on [Author Nataleet al.][GitHub Repository](https://github.com/Cemempamoi/pcnn) 
-The original implementation provided the foundation, and we have made modifications and extensions for XXX (your contribution).  
+This repository is based on [Nataleet al.[GitHub Repository](https://github.com/Cemempamoi/pcnn)]
+The original implementation provided the foundation, and we have made modifications and extensions.  
 We sincerely acknowledge and thank the authors of the original project.
 
 
